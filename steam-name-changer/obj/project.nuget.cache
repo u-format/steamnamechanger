@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "AiRZlJn/17311tnJRFsiLz5HP3pFXzxq6wogzMxLWfbipHFQebEZz8hvDYtmqXSP4I9xS4t4qkByPZojMUBeGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\4-m4t\\source\\repos\\steam-name-changer\\steam-name-changer\\steam-name-changer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\4-m4t\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\4-m4t\\.nuget\\packages\\selenium.webdriver\\4.26.1\\selenium.webdriver.4.26.1.nupkg.sha512",
+    "C:\\Users\\4-m4t\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\4-m4t\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\4-m4t\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\4-m4t\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\4-m4t\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\4-m4t\\.nuget\\packages\\system.text.json\\8.0.4\\system.text.json.8.0.4.nupkg.sha512",
+    "C:\\Users\\4-m4t\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\4-m4t\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
